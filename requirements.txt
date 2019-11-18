@@ -1,0 +1,5 @@
+flask
+requests
+mebots
+beautifulsoup4
+gunicorn
